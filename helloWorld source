@@ -1,0 +1,14 @@
+//This is a "Hello World" program practice for class.
+
+#include iostream
+
+unsing namespace std;
+
+int main()
+{
+
+  cout<<"Hello World"<<endl;
+  
+ return 0
+ 
+ }
